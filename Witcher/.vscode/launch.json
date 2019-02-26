@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Witcher",
+            "request": "launch",
+            "mainClass": "Witcher",
+            "projectName": "Witcher_636647af"
+        }
+    ]
+}
